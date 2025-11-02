@@ -1,0 +1,17 @@
+Flask==2.3.3
+pymupdf
+# pymupdf==1.22.5
+fitz
+frontend
+langchain
+langchain-community
+sentence_transformers
+fuzzywuzzy
+faiss-cpu
+pdfreader
+PyPDF2
+openai==0.28
+llamaapi
+transformers
+tiktoken
+pyserial
